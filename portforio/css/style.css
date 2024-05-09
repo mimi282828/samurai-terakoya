@@ -1,0 +1,71 @@
+body {
+    font-family: "Noto Sans Japanese";
+}
+/* ヘッダー */
+#nav {
+    font-size: 34px;
+    color: #000000;
+}
+
+.myprofile {
+    padding: 20px;
+    margin: 3px 0;
+    border: solid 1px #000000;
+    font-weight: bold;
+}
+
+.about {
+    font-weight: bold;
+}
+.works {
+    font-weight: bold;
+}
+
+#profile1 {
+    display: flex;
+}
+
+#main {
+    width: 100%;
+
+}
+
+
+
+#name {
+    font-size: 24px;
+
+}
+
+/* About 本文 */
+#profile1 {
+    float: right;
+}
+h1 {
+    font-size: 34px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* works 本文 */
+#photosea {
+    float: left;
+}
+#wordsea {
+    float: right;
+}
+
+#photomon {
+    float: left;
+}
+#wordmon{
+    float: right;
+}
+
+#photocity {
+    float: left;
+}
+
+#wordcity {
+    float: right;
+}
